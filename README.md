@@ -1,0 +1,2 @@
+# schoolFinder
+Find schools abroad
